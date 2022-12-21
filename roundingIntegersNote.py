@@ -21,3 +21,5 @@ print(score)
 #f-strings; makes it easier to convert numerous different functions into a single function. compare line 22 vs. 23. Use curly brackets.
 print("your score is " + str(score))
 print(f"your score is {score}")
+
+print(6 + 4 /2 - (1 * 2))
