@@ -6,4 +6,4 @@ user_pet_name = input()
 print ("Computer generated bitch ass name:")
 print(user_city +" "+ user_pet_name)
 
-#test push
+
