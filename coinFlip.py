@@ -7,7 +7,7 @@ import random
 coin_flip = random.randint(0,1)
 
 if coin_flip == 1:
-    print("heads")
+    print("Heads")
 else:
-    print("tails")
+    print("Tails")
 
